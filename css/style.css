@@ -199,6 +199,7 @@ button {
   font-weight: 600;
   position: sticky;
   top: 0;
+  z-index: 15;
 }
 
 footer {
